@@ -1,7 +1,10 @@
 {
   "metadata": {
     "title": "İzmir Web Tasarım ve Yazılım Çözümleri",
-    "description": "İzmir merkezli küçük işletmeler ve girişimciler için kalite odaklı, kurumsal web tasarım ve profesyonel yazılım hizmetleri."
+    "description": "İzmir merkezli küçük işletmeler ve girişimciler için kalite odaklı, kurumsal web tasarım ve profesyonel yazılım hizmetleri.",
+    "isPaid": true,
+    "demoMode": false,
+    "lastUpdate": "2026-01-14T04:52:27.621Z"
   },
   "theme": {
     "colors": {
@@ -56,5 +59,6 @@
       "phone": "+90 554 110 3132",
       "email": "cankavlakqq@gmail.com"
     }
-  }
+  },
+  "is_paid": true
 }
